@@ -1,0 +1,9 @@
+C:\Users\Я\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\Я\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\TaskManager\TaskManager\bin\Debug\Tasks.mdf
+C:\Users\Я\source\repos\TaskManager\TaskManager\bin\Debug\Tasks_log.ldf
+C:\Users\Я\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Я\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Я\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Я\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Я\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
